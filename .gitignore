@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+raw-leads/
+tests/*.js
+tests/*.js.map
